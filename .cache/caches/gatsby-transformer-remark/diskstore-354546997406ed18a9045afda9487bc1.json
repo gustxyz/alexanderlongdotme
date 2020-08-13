@@ -1,0 +1,106 @@
+{
+  "expireTime": 9007200852095555000,
+  "key": "transformer-remark-markdown-ast-7f5c58d6412f0e0d7344c7a0ba92c293-gatsby-remark-imagesgatsby-remark-responsive-iframegatsby-remark-prismjsgatsby-remark-copy-linked-filesgatsby-remark-smartypants-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "value": "It draws primarily on musical and cultural sources from the 1980s and early 1990s while also being associated with an ambiguous or satirical take on consumer capitalism and technoculture. Early incarnations of vaporwave relied on the sampling of sources such as Japanese city pop, smooth jazz, retro elevator music, R&B, lounge music, and dance music from the 1980s and 1990s.",
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 377, "offset": 377 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 2, "column": 377, "offset": 377 },
+          "indent": []
+        }
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "start": null,
+        "spread": false,
+        "children": [
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "See the ",
+                    "position": {
+                      "start": { "line": 4, "column": 3, "offset": 381 },
+                      "end": { "line": 4, "column": 11, "offset": 389 },
+                      "indent": []
+                    }
+                  },
+                  {
+                    "type": "link",
+                    "title": null,
+                    "url": "https://en.wikipedia.org/wiki/Vaporwave",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Wikipedia",
+                        "position": {
+                          "start": { "line": 4, "column": 12, "offset": 390 },
+                          "end": { "line": 4, "column": 21, "offset": 399 },
+                          "indent": []
+                        }
+                      }
+                    ],
+                    "position": {
+                      "start": { "line": 4, "column": 11, "offset": 389 },
+                      "end": { "line": 4, "column": 63, "offset": 441 },
+                      "indent": []
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "value": " for more information.",
+                    "position": {
+                      "start": { "line": 4, "column": 63, "offset": 441 },
+                      "end": { "line": 4, "column": 85, "offset": 463 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 4, "column": 3, "offset": 381 },
+                  "end": { "line": 4, "column": 85, "offset": 463 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 379 },
+              "end": { "line": 4, "column": 85, "offset": 463 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 4, "column": 1, "offset": 379 },
+          "end": { "line": 4, "column": 85, "offset": 463 },
+          "indent": []
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 4, "column": 85, "offset": 463 }
+    }
+  }
+}
