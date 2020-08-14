@@ -5,7 +5,9 @@ import { createPortal } from "react-dom";
 const StopMotionScroller = ({ url, imgExtension }) => {
   const canvas = useRef(null);
 
-  if (document) const html = document.documentElement;
+  if (!document) 
+    return; 
+  const html = document.documentElement;
 
   useEffect(() => {
     const context = canvas.current.getContext("2d");
