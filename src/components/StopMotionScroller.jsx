@@ -5,7 +5,7 @@ import { createPortal } from "react-dom";
 const StopMotionScroller = ({ url, imgExtension }) => {
   const canvas = useRef(null);
   let html;
-  if (document) {
+  if (typeof document !== 'undefined') {
       html = document.documentElement;
   }
 
